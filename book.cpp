@@ -1,3 +1,7 @@
+/*File Name : student.cpp
+  Author : K. S. Krishna Chandran
+  Description : To deal with book information using class.
+  Date : 16-04-15*/
 
 
 
