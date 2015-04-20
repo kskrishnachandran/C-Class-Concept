@@ -6,14 +6,12 @@
 
 #include<iostream>
 #include<string>
-#include<cstdio>
 #include<stdlib.h>
 using namespace std;
 
 class student {
 	int admn;
 	string sname;
-	char n[100];
 	float eng;
 	float math;
 	float science;
